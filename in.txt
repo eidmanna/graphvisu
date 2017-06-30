@@ -1,0 +1,6 @@
+http://localhost:3000/uip-billing.xsd
+// http://localhost:3000/uip-commission.xsd
+// http://localhost:3000/uip-contract.xsd
+//http://localhost:3000/uip-partner.xsd
+//http://localhost:3000/uipDatamodel.xsd
+
